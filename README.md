@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @madhurikurhade1
+- 👀 I’m interested in programming.
+- 🌱 I’m pursuing Engineering.
